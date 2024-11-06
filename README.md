@@ -1,1 +1,2 @@
 # CATLionPSU
+Welcome to CATLion, or Computational Amino acid Tutorial for Learning: Integrated with Online Network. This application is designed for compatitbility with Penn State University Information Technology infrastructure. To launch the application, select the executable (CATLion.exe) from the scripts folder, or run CATLion.py in your IDE of choice. Contact Madeline Marous at mvm7180@psu.edu with any questions, comments, or concerns. 
